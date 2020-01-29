@@ -22,6 +22,8 @@ public class vcliente extends vpersona {
 
     public String getCodigo_cliente() {
         return codigo_cliente;
+        
+        /*cambie desde la pagina*/
    
     }
 
